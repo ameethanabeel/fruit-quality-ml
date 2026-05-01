@@ -22,6 +22,21 @@ Inspired by my PhD research in image-based quality detection, this project explo
 - TensorFlow
 - Google Colab
 
+- ## Dataset
+
+This project uses a fruit quality dataset (fresh vs rotten).
+
+Due to size limitations, the dataset is not included in this repository.
+
+You can download a similar dataset from:
+https://www.kaggle.com/datasets/shashwatwork/fruitnet-indian-fruits-dataset-with-quality
+
+After downloading, organize it as:
+
+fruit-data/
+   good/
+   bad/
+
 ## Future Work
 - Use transfer learning (ResNet/MobileNet)
 - Improve model accuracy
